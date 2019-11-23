@@ -8,9 +8,15 @@
       <link href="/2019/11/23/first/"/>
       <url>/2019/11/23/first/</url>
       
-        <content type="html"><![CDATA[<h1 id="大神是怎样炼成的？"><a href="#大神是怎样炼成的？" class="headerlink" title="大神是怎样炼成的？"></a>大神是怎样炼成的？</h1><p>每个人都有一个英雄梦</p><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> god = <span class="built_in">new</span> God();</span><br><span class="line"><span class="keyword">var</span> person = <span class="built_in">new</span> Human();</span><br><span class="line">god.say(<span class="string">"Where is my pants?"</span>);</span><br><span class="line">person.answer(<span class="string">"behind your hair"</span>);</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>摘要：a joke </p><a id="more"></a><h1 id="大神是怎样炼成的？"><a href="#大神是怎样炼成的？" class="headerlink" title="大神是怎样炼成的？"></a>大神是怎样炼成的？</h1><p>每个人都有一个英雄梦</p><figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> god = <span class="built_in">new</span> God();</span><br><span class="line"><span class="keyword">var</span> person = <span class="built_in">new</span> Human();</span><br><span class="line">god.say(<span class="string">"Where is my pants?"</span>);</span><br><span class="line">person.answer(<span class="string">"behind your hair"</span>);</span><br></pre></td></tr></table></figure>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> joke </tag>
+            
+        </tags>
       
     </entry>
     
