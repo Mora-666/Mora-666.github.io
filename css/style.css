@@ -1967,18 +1967,18 @@ a.toc-link {
 }
 .article-entry pre,
 .article-entry .highlight {
-  background: #f6f8fa;
+  background: #2d2d2d;
   padding: 1.5rem;
   margin: 1.5rem 0;
   -webkit-border-radius: 0.4rem;
   -moz-border-radius: 0.4rem;
   border-radius: 0.4rem;
   overflow: auto;
-  color: #4d4d4c;
+  color: #ccc;
 }
 .article-entry .highlight .gutter pre,
 .article-entry .gist .gist-file .gist-data .line-numbers {
-  color: #8e908c;
+  color: #999;
 }
 .article-entry pre,
 .article-entry code {
@@ -1986,7 +1986,7 @@ a.toc-link {
   text-shadow: none;
 }
 .article-entry code {
-  background: #f6f8fa;
+  background: #2d2d2d;
   padding: 0.25rem;
   -webkit-border-radius: 0.4rem;
   -moz-border-radius: 0.4rem;
@@ -2012,7 +2012,7 @@ a.toc-link {
 }
 .article-entry .highlight figcaption {
   font-size: 85%;
-  color: #8e908c;
+  color: #999;
   line-height: 1rem;
   margin-bottom: 1rem;
 }
@@ -2039,10 +2039,10 @@ a.toc-link {
   height: inherit;
 }
 .article-entry .highlight .line.marked {
-  background: #d6d6d6;
+  background: #515151;
 }
 .article-entry .gist {
-  background: #f6f8fa;
+  background: #2d2d2d;
 }
 .article-entry .gist .gist-file {
   border: none;
@@ -2065,8 +2065,8 @@ a.toc-link {
   border: none;
 }
 .article-entry .gist .gist-file .gist-meta {
-  background: #f6f8fa;
-  color: #8e908c;
+  background: #2d2d2d;
+  color: #999;
   padding: 0;
   margin-top: 1rem;
 }
@@ -2078,7 +2078,7 @@ a.toc-link {
 }
 pre .comment,
 pre .title {
-  color: #8e908c;
+  color: #999;
 }
 pre .variable,
 pre .attribute,
